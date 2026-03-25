@@ -3,8 +3,7 @@
 ## Project Overview
 This project provides a comprehensive, data-driven analysis of the global data professional market from 2020 to 2023. By leveraging a dataset of over 9,300 job postings, this interactive Power BI dashboard uncovers underlying trends in skill valuation, supply vs. demand dynamics across data niches, and macroeconomic shifts in work models (remote vs. in-person).
 
-![Dashboard Preview](dashboard/dashboard_preview.png) 
-*(Note: Replace `dashboard/dashboard_preview.png` with the actual path to your dashboard screenshot)*
+![Dashboard Data Jobs Market 2020-2023](dashboard/dashboard_data_jobs.gif)
 
 ## Dashboard Features
 * **Executive KPI Cards:** Quick overview of the total job openings (**9,355**) and total salary compensation (**$1.27bn**).
